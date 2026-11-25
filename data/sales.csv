@@ -1,0 +1,249 @@
+pedido_id,data,cliente_id,cidade,categoria,produto,quantidade,preco_unitario,status
+P0208,13/11/2025,C093,Belo Horizonte,Móveis,Estante,1,599.00,Concluído
+P0133,24/05/2025,C095,Fortaleza,Móveis,Mesa de Escritório,1,849.00,CONCLUIDO 
+P0238,03/08/2025,C082,Belo Horizonte,Móveis,Mesa de Escritório,1,849.00,concluido
+P0143,01/12/2025,C037,Fortaleza,Utilidades,Garrafa Térmica,2,89.90,CONCLUIDO 
+P0131,16/11/2025,C064,Curitiba,Eletrônicos,Notebook,2,4299.00,cancelado
+P0101,23/05/2025,C088,Salvador,Eletrônicos,Caixa de Som,1,399.90,CONCLUIDO 
+P0114,29/04/2025,C014,Curitiba,Móveis,Cadeira Gamer,1,1299.00,CONCLUIDO 
+P0116,13/01/2025,C007,Recife,Eletrônicos,Smartwatch,2,899.00,Concluído
+P0052,17/02/2025,C071,Curitiba,Móveis,Mesa de Escritório,1,849.00,concluido
+P0124,02/02/2025,C035,Belo Horizonte,Móveis,Cadeira Gamer,1,1299.00,CONCLUIDO 
+P0232,24/10/2025,C100,Curitiba,Utilidades,Garrafa Térmica,1,89.90,Concluído
+P0199,09/09/2025,C076,Belo Horizonte,Acessórios,Mouse sem Fio,2,129.90,Concluído
+P0035,26/08/2025,C021,Rio de Janeiro,Eletrônicos,Caixa de Som,3,399.90,concluido
+P0150,28/01/2025,C116,Rio de Janeiro,Acessórios,Teclado Mecânico,1,349.90, concluído
+P0066,17/09/2025,C032,Fortaleza,Eletrônicos,Caixa de Som,2,399.90,CONCLUIDO 
+P0120,05/03/2025,C046,Fortaleza,Móveis,Mesa de Escritório,2,849.00,Concluído
+P0043,12/10/2025,C008,Salvador,Utilidades,Luminária LED,2,149.90,concluido
+P0221,17/12/2025,C079,Belo Horizonte,Acessórios,Mouse sem Fio,3,129.90,concluido
+P0034,31/12/2025,C056,Belo Horizonte,Eletrônicos,Caixa de Som,1,399.90, concluído
+P0184,22/11/2025,C101,Fortaleza,Eletrônicos,Notebook,3,4299.00, concluído
+P0164,17/04/2025,C048,Recife,Utilidades,Organizador de Cabos,1,39.90,Concluído
+P0087,15/12/2025,C019,Natal,Eletrônicos,Caixa de Som,3,399.90,CONCLUIDO 
+P0044,22/01/2025,C004,São Paulo,Casa Inteligente,Tomada Wi-Fi,2,99.90, concluído
+P0084,18/05/2025,C075,São Paulo,Eletrônicos,Caixa de Som,1,399.90,Concluído
+P0113,04/01/2025,C064,Salvador,Acessórios,Mouse sem Fio,1,129.90,concluido
+P0025,05/09/2025,C096,Belo Horizonte,Acessórios,Teclado Mecânico,1,349.90,Concluído
+P0152,23/09/2025,C020,Salvador,Eletrônicos,Caixa de Som,1,399.90,CONCLUIDO 
+P0148,16/09/2025,C021,Rio de Janeiro,Eletrônicos,Notebook,1,4299.00,CONCLUIDO 
+P0030,10/09/2025,C102,Fortaleza,Casa Inteligente,Câmera de Segurança,1,459.00,concluido
+P0154,03/11/2025,C054,Fortaleza,Eletrônicos,Caixa de Som,3,399.90,CONCLUIDO 
+P0178,10/09/2025,C008,Recife,Utilidades,Luminária LED,1,149.90,concluido
+P0190,25/12/2025,C089,Recife,Móveis,Cadeira Gamer,1,1299.00,cancelado
+P0237,28/08/2025,C038,Curitiba,Casa Inteligente,Tomada Wi-Fi,3,99.90, concluído
+P0060,06/06/2025,C058,Rio de Janeiro,Móveis,Estante,1,599.00,Concluído
+P0068,15/06/2025,C046,Rio de Janeiro,Móveis,Estante,1,599.00,CONCLUIDO 
+P0056,19/12/2025,C003,São Paulo,Móveis,Cadeira Gamer,1,1299.00,concluido
+P0074,16/12/2025,C004,Recife,Utilidades,Luminária LED,1,149.90,Concluído
+P0076,08/09/2025,C096,São Paulo,Eletrônicos,Smartwatch,1,899.00, concluído
+P0117,19/08/2025,C015,São Paulo,Casa Inteligente,Tomada Wi-Fi,3,99.90,CONCLUIDO 
+P0119,15/08/2025,C036,São Paulo,Móveis,Mesa de Escritório,1,849.00,concluido
+P0102,08/05/2025,C040,Recife,Eletrônicos,Notebook,2,4299.00, concluído
+P0020,14/10/2025,C014,Curitiba,Acessórios,Mochila Notebook,2,219.90, concluído
+P0098,07/08/2025,C012,Rio de Janeiro,Móveis,Mesa de Escritório,1,849.00,Concluído
+P0166,28/02/2025,C110,Belo Horizonte,Casa Inteligente,Tomada Wi-Fi,3,99.90,concluido
+P0126,03/02/2025,C061,Curitiba,Utilidades,Luminária LED,1,149.90,cancelado
+P0210,22/02/2025,C102,Fortaleza,Casa Inteligente,Câmera de Segurança,1,459.00,Concluído
+P0219,13/04/2025,C059,Salvador,Casa Inteligente,Câmera de Segurança,2,459.00,concluido
+P0188,30/04/2025,C051,São Paulo,Eletrônicos,Caixa de Som,1,399.90,CONCLUIDO 
+P0046,02/09/2025,C067,Fortaleza,Utilidades,Luminária LED,3,149.90,Concluído
+P0042,31/08/2025,C008,Belo Horizonte,Casa Inteligente,Lâmpada Smart,2,79.90,concluido
+P0079,12/11/2025,C077,Rio de Janeiro,Móveis,Cadeira Gamer,1,1299.00,Concluído
+P0094,12/03/2025,C007,Rio de Janeiro,Acessórios,Mochila Notebook,2,219.90,CONCLUIDO 
+P0181,17/11/2025,C092,Recife,Eletrônicos,Notebook,2,4299.00,CANCELADO
+P0069,15/07/2025,C084,Salvador,Eletrônicos,Notebook,2,4299.00,Cancelado
+P0225,21/11/2025,C046,Natal,Casa Inteligente,Lâmpada Smart,1,79.90,Concluído
+P0037,08/10/2025,C103,São Paulo,Móveis,Cadeira Gamer,1,1299.00,concluido
+P0193,21/02/2025,C041,Belo Horizonte,Móveis,Mesa de Escritório,1,849.00,Concluído
+P0071,03/06/2025,C075,Rio de Janeiro,Acessórios,Mouse sem Fio,1,129.90,Concluído
+P0139,22/04/2025,C006,Salvador,Eletrônicos,Notebook,1,4299.00,Cancelado
+P0029,10/04/2025,C103,Salvador,Casa Inteligente,Câmera de Segurança,3,459.00, concluído
+P0051,09/08/2025,C054,Salvador,Casa Inteligente,Câmera de Segurança,1,459.00, concluído
+P0162,18/12/2025,C107,Belo Horizonte,Móveis,Cadeira Gamer,1,1299.00,Concluído
+P0025,05/09/2025,C096,Belo Horizonte,Acessórios,Teclado Mecânico,1,349.90,Concluído
+P0062,06/05/2025,C105,Natal,Utilidades,Organizador de Cabos,3,39.90,concluido
+P0033,09/11/2025,C045,São Paulo,Acessórios,Mochila Notebook,3,219.90, concluído
+P0021,08/04/2025,C021,São Paulo,Acessórios,Mouse sem Fio,2,129.90,cancelado
+P0141,10/07/2025,C027,Recife,Acessórios,Mochila Notebook,1,219.90,CONCLUIDO 
+P0015,07/05/2025,C022,Curitiba,Casa Inteligente,Câmera de Segurança,1,459.00, concluído
+P0099,16/02/2025,C104,Salvador,Móveis,Estante,1,599.00,CONCLUIDO 
+P0204,30/04/2025,C077,Recife,Acessórios,Mochila Notebook,2,219.90,Concluído
+P0187,03/05/2025,C108,Recife,Móveis,Estante,2,599.00, concluído
+P0057,08/11/2025,C111,São Paulo,Móveis,Cadeira Gamer,1,1299.00,concluido
+P0191,03/02/2025,C105,São Paulo,Eletrônicos,Fone Bluetooth,1,249.90,CONCLUIDO 
+P0041,10/01/2025,C001,Rio de Janeiro,Utilidades,Luminária LED,2,149.90,Concluído
+P0216,24/07/2025,C109,Natal,Acessórios,Mouse sem Fio,1,129.90,Concluído
+P0063,21/07/2025,C028,Salvador,Acessórios,Mochila Notebook,3,219.90,CONCLUIDO 
+P0132,10/03/2025,C069,São Paulo,Casa Inteligente,Lâmpada Smart,3,79.90,Concluído
+P0197,21/04/2025,C105,Fortaleza,Utilidades,Luminária LED,2,149.90,concluido
+P0083,09/06/2025,C038,Curitiba,Utilidades,Garrafa Térmica,1,89.90, concluído
+P0136,19/01/2025,C108,Curitiba,Eletrônicos,Caixa de Som,1,399.90,Cancelado
+P0215,05/03/2025,C081,São Paulo,Casa Inteligente,Câmera de Segurança,1,459.00,CONCLUIDO 
+P0185,22/04/2025,C022,Fortaleza,Móveis,Estante,1,599.00,CANCELADO
+P0160,01/12/2025,C110,São Paulo,Eletrônicos,Caixa de Som,1,399.90,Concluído
+P0090,29/10/2025,C110,Recife,Acessórios,Teclado Mecânico,1,349.90,Cancelado
+P0008,08/05/2025,C074,Fortaleza,Móveis,Mesa de Escritório,1,849.00,Concluído
+P0125,15/05/2025,C039,Recife,Utilidades,Garrafa Térmica,1,89.90,CONCLUIDO 
+P0005,15/03/2025,C105,Rio de Janeiro,Móveis,Mesa de Escritório,2,849.00,CONCLUIDO 
+P0105,19/03/2025,C090,Curitiba,Casa Inteligente,Lâmpada Smart,3,79.90,concluido
+P0211,21/05/2025,C027,Natal,Móveis,Mesa de Escritório,1,849.00,concluido
+P0123,27/07/2025,C009,Recife,Casa Inteligente,Câmera de Segurança,2,459.00,cancelado
+P0059,26/02/2025,C024,Salvador,Eletrônicos,Smartwatch,1,899.00,CONCLUIDO 
+P0064,28/12/2025,C045,Recife,Móveis,Cadeira Gamer,2,1299.00,Concluído
+P0231,03/12/2025,C038,Fortaleza,Utilidades,Garrafa Térmica,3,89.90,cancelado
+P0072,16/06/2025,C037,Rio de Janeiro,Utilidades,Organizador de Cabos,1,39.90, concluído
+P0081,01/02/2025,C028,Curitiba,Eletrônicos,Caixa de Som,3,399.90,concluido
+P0213,14/03/2025,C095,Salvador,Acessórios,Mouse sem Fio,1,129.90, concluído
+P0159,12/02/2025,C066,São Paulo,Eletrônicos,Smartwatch,3,899.00,CONCLUIDO 
+P0218,19/07/2025,C033,Salvador,Móveis,Cadeira Gamer,1,1299.00,concluido
+P0019,03/08/2025,C089,Recife,Eletrônicos,Smartwatch,1,899.00,CONCLUIDO 
+P0222,21/05/2025,C010,Natal,Eletrônicos,Notebook,1,4299.00,concluido
+P0092,12/08/2025,C101,Natal,Casa Inteligente,Tomada Wi-Fi,1,99.90,Concluído
+P0107,17/11/2025,C098,São Paulo,Móveis,Cadeira Gamer,3,1299.00, concluído
+P0137,31/05/2025,C077,Salvador,Móveis,Cadeira Gamer,1,1299.00,concluido
+P0167,24/09/2025,C069,Natal,Acessórios,Mochila Notebook,1,219.90,concluido
+P0007,12/09/2025,C060,Curitiba,Utilidades,Garrafa Térmica,1,89.90, concluído
+P0024,05/11/2025,C109,Curitiba,Móveis,Mesa de Escritório,1,849.00,concluido
+P0096,03/05/2025,C022,Rio de Janeiro,Acessórios,Mochila Notebook,1,219.90, concluído
+P0094,12/03/2025,C007,Rio de Janeiro,Acessórios,Mochila Notebook,2,219.90,CONCLUIDO 
+P0058,23/06/2025,C080,Rio de Janeiro,Acessórios,Mouse sem Fio,1,129.90, concluído
+P0032,23/04/2025,C044,Salvador,Móveis,Cadeira Gamer,1,1299.00,Cancelado
+P0161,21/12/2025,C114,Curitiba,Utilidades,Luminária LED,1,149.90,Concluído
+P0093,11/10/2025,C120,Natal,Eletrônicos,Caixa de Som,1,399.90,concluido
+P0170,27/10/2025,C001,Recife,Móveis,Estante,3,599.00,CONCLUIDO 
+P0003,10/10/2025,C081,Recife,Casa Inteligente,Lâmpada Smart,1,79.90,concluido
+P0061,10/01/2025,C003,Salvador,Móveis,Mesa de Escritório,1,849.00,concluido
+P0017,14/07/2025,C023,Rio de Janeiro,Móveis,Estante,1,599.00,Concluído
+P0169,01/04/2025,C105,Fortaleza,Acessórios,Mouse sem Fio,1,129.90,concluido
+P0240,06/09/2025,C028,Natal,Utilidades,Organizador de Cabos,1,39.90,Concluído
+P0196,12/08/2025,C061,Recife,Acessórios,Mouse sem Fio,1,129.90,concluido
+P0194,11/01/2025,C092,Belo Horizonte,Acessórios,Teclado Mecânico,1,349.90,CONCLUIDO 
+P0110,01/05/2025,C091,Fortaleza,Acessórios,Mochila Notebook,2,219.90,concluido
+P0189,16/03/2025,C080,Rio de Janeiro,Utilidades,Garrafa Térmica,1,89.90,cancelado
+P0227,12/07/2025,C024,Curitiba,Móveis,Estante,3,599.00, concluído
+P0239,09/11/2025,C104,São Paulo,Eletrônicos,Fone Bluetooth,1,249.90,CANCELADO
+P0195,15/09/2025,C096,Recife,Móveis,Estante,2,599.00,CONCLUIDO 
+P0001,22/07/2025,C013,Belo Horizonte,Móveis,Cadeira Gamer,2,1299.00,concluido
+P0223,24/12/2025,C029,Fortaleza,Acessórios,Mochila Notebook,1,219.90,CONCLUIDO 
+P0138,20/09/2025,C034,Recife,Eletrônicos,Notebook,2,4299.00, concluído
+P0039,14/09/2025,C070,Natal,Casa Inteligente,Tomada Wi-Fi,1,99.90,CONCLUIDO 
+P0180,13/04/2025,C023,Fortaleza,Casa Inteligente,Tomada Wi-Fi,2,99.90, concluído
+P0121,26/01/2025,C070,Curitiba,Acessórios,Mouse sem Fio,1,129.90,Concluído
+P0176,23/11/2025,C104,Fortaleza,Eletrônicos,Fone Bluetooth,2,249.90,CONCLUIDO 
+P0027,06/10/2025,C111,São Paulo,Casa Inteligente,Câmera de Segurança,3,459.00,CONCLUIDO 
+P0106,01/01/2025,C118,Recife,Eletrônicos,Fone Bluetooth,2,249.90,Concluído
+P0192,07/05/2025,C005,São Paulo,Acessórios,Mouse sem Fio,1,129.90,concluido
+P0040,01/07/2025,C017,Rio de Janeiro,Casa Inteligente,Lâmpada Smart,2,79.90, concluído
+P0100,16/07/2025,C035,Belo Horizonte,Eletrônicos,Caixa de Som,2,399.90,Concluído
+P0172,08/09/2025,C007,Recife,Eletrônicos,Smartwatch,1,899.00,concluido
+P0018,30/04/2025,C034,Fortaleza,Casa Inteligente,Câmera de Segurança,1,459.00,CANCELADO
+P0115,25/04/2025,C019,Natal,Utilidades,Garrafa Térmica,2,89.90,concluido
+P0202,18/02/2025,C012,Natal,Móveis,Mesa de Escritório,3,849.00, concluído
+P0155,06/08/2025,C065,Curitiba,Utilidades,Garrafa Térmica,2,89.90,CONCLUIDO 
+P0217,11/01/2025,C087,Rio de Janeiro,Acessórios,Teclado Mecânico,2,349.90, concluído
+P0174,29/10/2025,C107,Curitiba,Utilidades,Organizador de Cabos,2,39.90,CONCLUIDO 
+P0134,07/05/2025,C037,Salvador,Casa Inteligente,Tomada Wi-Fi,1,99.90,Concluído
+P0146,28/02/2025,C114,Belo Horizonte,Casa Inteligente,Tomada Wi-Fi,2,99.90, concluído
+P0128,19/03/2025,C059,Belo Horizonte,Móveis,Estante,1,599.00,CONCLUIDO 
+P0235,16/05/2025,C064,Recife,Eletrônicos,Fone Bluetooth,2,249.90,Concluído
+P0149,16/07/2025,C017,Recife,Eletrônicos,Fone Bluetooth,1,249.90,Concluído
+P0145,11/04/2025,C001,Natal,Móveis,Estante,1,599.00, concluído
+P0111,10/04/2025,C033,Salvador,Eletrônicos,Fone Bluetooth,1,249.90, concluído
+P0006,10/07/2025,C073,Recife,Eletrônicos,Smartwatch,1,899.00,CANCELADO
+P0214,21/10/2025,C086,Salvador,Acessórios,Mochila Notebook,1,219.90, concluído
+P0009,25/06/2025,C010,São Paulo,Utilidades,Organizador de Cabos,2,39.90,CONCLUIDO 
+P0165,26/07/2025,C042,Natal,Casa Inteligente,Lâmpada Smart,3,79.90,CONCLUIDO 
+P0048,08/08/2025,C101,São Paulo,Eletrônicos,Smartwatch,1,899.00,CANCELADO
+P0078,29/11/2025,C010,Curitiba,Casa Inteligente,Câmera de Segurança,2,459.00, concluído
+P0067,05/04/2025,C034,Belo Horizonte,Eletrônicos,Caixa de Som,1,399.90, concluído
+P0144,09/06/2025,C054,Recife,Acessórios,Mouse sem Fio,2,129.90,CONCLUIDO 
+P0080,30/11/2025,C073,Rio de Janeiro,Móveis,Mesa de Escritório,2,849.00,CONCLUIDO 
+P0036,19/03/2025,C019,Curitiba,Casa Inteligente,Lâmpada Smart,3,79.90, concluído
+P0095,01/08/2025,C095,Fortaleza,Casa Inteligente,Tomada Wi-Fi,1,99.90,CONCLUIDO 
+P0004,23/07/2025,C072,Rio de Janeiro,Utilidades,Luminária LED,1,149.90,cancelado
+P0220,09/01/2025,C044,Natal,Acessórios,Mochila Notebook,2,219.90,CONCLUIDO 
+P0108,03/06/2025,C034,Salvador,Eletrônicos,Fone Bluetooth,2,249.90,Concluído
+P0010,26/03/2025,C054,Recife,Utilidades,Organizador de Cabos,2,39.90,Concluído
+P0047,18/08/2025,C057,Belo Horizonte,Utilidades,Garrafa Térmica,2,89.90,concluido
+P0026,21/12/2025,C068,Belo Horizonte,Móveis,Mesa de Escritório,1,849.00,concluido
+P0045,10/11/2025,C036,Curitiba,Acessórios,Teclado Mecânico,3,349.90,Concluído
+P0182,27/08/2025,C023,Salvador,Acessórios,Teclado Mecânico,2,349.90,CANCELADO
+P0118,08/04/2025,C040,Natal,Casa Inteligente,Tomada Wi-Fi,1,99.90, concluído
+P0209,28/06/2025,C034,São Paulo,Utilidades,Luminária LED,1,149.90,CONCLUIDO 
+P0171,29/05/2025,C066,Belo Horizonte,Casa Inteligente,Lâmpada Smart,2,79.90, concluído
+P0206,13/08/2025,C030,Rio de Janeiro,Casa Inteligente,Tomada Wi-Fi,2,99.90,CONCLUIDO 
+P0055,13/05/2025,C042,São Paulo,Acessórios,Mochila Notebook,3,219.90, concluído
+P0022,27/01/2025,C069,São Paulo,Móveis,Estante,1,599.00,CANCELADO
+P0175,08/01/2025,C020,Curitiba,Casa Inteligente,Lâmpada Smart,3,79.90,Concluído
+P0153,15/10/2025,C108,Belo Horizonte,Casa Inteligente,Lâmpada Smart,3,79.90,concluido
+P0177,27/11/2025,C083,Curitiba,Eletrônicos,Fone Bluetooth,2,249.90,CONCLUIDO 
+P0179,02/05/2025,C079,Salvador,Acessórios,Mouse sem Fio,1,129.90,concluido
+P0173,05/06/2025,C029,Natal,Utilidades,Organizador de Cabos,2,39.90,Cancelado
+P0161,21/12/2025,C114,Curitiba,Utilidades,Luminária LED,1,149.90,Concluído
+P0038,13/03/2025,C004,Fortaleza,Utilidades,Luminária LED,1,149.90,Concluído
+P0158,07/07/2025,C066,Recife,Móveis,Mesa de Escritório,2,849.00,Cancelado
+P0097,14/09/2025,C029,Curitiba,Eletrônicos,Smartwatch,2,899.00, concluído
+P0157,02/04/2025,C009,Rio de Janeiro,Utilidades,Organizador de Cabos,1,39.90, concluído
+P0207,26/11/2025,C025,Fortaleza,Móveis,Mesa de Escritório,2,849.00,Concluído
+P0226,08/10/2025,C101,Salvador,Acessórios,Teclado Mecânico,1,349.90, concluído
+P0016,23/05/2025,C036,Natal,Acessórios,Mochila Notebook,2,219.90, concluído
+P0169,01/04/2025,C105,Fortaleza,Acessórios,Mouse sem Fio,1,129.90,concluido
+P0156,02/01/2025,C031,Curitiba,Casa Inteligente,Lâmpada Smart,2,79.90, concluído
+P0088,11/06/2025,C042,Belo Horizonte,Móveis,Mesa de Escritório,1,849.00,CONCLUIDO 
+P0049,26/11/2025,C114,Rio de Janeiro,Casa Inteligente,Câmera de Segurança,1,459.00,Concluído
+P0012,19/05/2025,C094,Fortaleza,Eletrônicos,Fone Bluetooth,1,249.90,concluido
+P0002,17/09/2025,C054,São Paulo,Utilidades,Garrafa Térmica,2,89.90,concluido
+P0028,07/07/2025,C069,Belo Horizonte,Móveis,Estante,1,599.00,CONCLUIDO 
+P0230,13/02/2025,C068,Belo Horizonte,Acessórios,Mouse sem Fio,1,129.90,CONCLUIDO 
+P0205,17/06/2025,C071,Belo Horizonte,Móveis,Estante,3,599.00, concluído
+P0013,17/08/2025,C045,Recife,Utilidades,Luminária LED,3,149.90, concluído
+P0147,08/03/2025,C083,Natal,Acessórios,Mouse sem Fio,1,129.90,CANCELADO
+P0140,03/11/2025,C105,Belo Horizonte,Móveis,Cadeira Gamer,1,1299.00,Concluído
+P0228,03/07/2025,C062,Curitiba,Eletrônicos,Notebook,1,4299.00,CONCLUIDO 
+P0236,15/03/2025,C022,Recife,Acessórios,Teclado Mecânico,2,349.90,Concluído
+P0186,14/04/2025,C113,Natal,Casa Inteligente,Câmera de Segurança,1,459.00,CONCLUIDO 
+P0103,06/08/2025,C063,Recife,Casa Inteligente,Lâmpada Smart,2,79.90, concluído
+P0011,24/06/2025,C103,Curitiba,Eletrônicos,Notebook,2,4299.00, concluído
+P0201,26/02/2025,C101,São Paulo,Acessórios,Mouse sem Fio,2,129.90,concluido
+P0023,14/01/2025,C049,Rio de Janeiro,Móveis,Estante,2,599.00,cancelado
+P0163,23/03/2025,C019,Fortaleza,Utilidades,Organizador de Cabos,2,39.90,CONCLUIDO 
+P0151,27/07/2025,C024,Salvador,Casa Inteligente,Câmera de Segurança,2,459.00,Concluído
+P0033,09/11/2025,C045,São Paulo,Acessórios,Mochila Notebook,3,219.90, concluído
+P0077,31/08/2025,C031,Salvador,Utilidades,Garrafa Térmica,1,89.90,concluido
+P0183,29/04/2025,C115,Fortaleza,Eletrônicos,Notebook,1,4299.00,concluido
+P0082,22/09/2025,C099,São Paulo,Móveis,Estante,2,599.00, concluído
+P0050,18/02/2025,C086,Salvador,Acessórios,Mouse sem Fio,1,129.90, concluído
+P0085,26/09/2025,C078,Fortaleza,Casa Inteligente,Câmera de Segurança,1,459.00,CONCLUIDO 
+P0031,10/04/2025,C104,Belo Horizonte,Acessórios,Teclado Mecânico,2,349.90,CONCLUIDO 
+P0203,16/04/2025,C065,Rio de Janeiro,Eletrônicos,Notebook,2,4299.00, concluído
+P0229,23/11/2025,C119,Fortaleza,Acessórios,Mochila Notebook,1,219.90,Cancelado
+P0168,12/07/2025,C043,São Paulo,Móveis,Mesa de Escritório,1,849.00,Concluído
+P0053,10/01/2025,C009,São Paulo,Acessórios,Mochila Notebook,2,219.90,CONCLUIDO 
+P0089,11/04/2025,C048,São Paulo,Acessórios,Mouse sem Fio,1,129.90,CONCLUIDO 
+P0130,10/10/2025,C114,São Paulo,Eletrônicos,Caixa de Som,2,399.90,Concluído
+P0224,23/04/2025,C028,Rio de Janeiro,Acessórios,Mochila Notebook,2,219.90, concluído
+P0070,03/01/2025,C052,Recife,Casa Inteligente,Câmera de Segurança,1,459.00,cancelado
+P0129,20/09/2025,C053,São Paulo,Utilidades,Garrafa Térmica,1,89.90,Concluído
+P0086,29/04/2025,C004,Rio de Janeiro,Eletrônicos,Notebook,2,4299.00, concluído
+P0104,28/09/2025,C101,São Paulo,Eletrônicos,Caixa de Som,1,399.90, concluído
+P0127,09/08/2025,C024,Recife,Acessórios,Teclado Mecânico,2,349.90,Concluído
+P0087,15/12/2025,C019,Natal,Eletrônicos,Caixa de Som,3,399.90,CONCLUIDO 
+P0091,27/01/2025,C120,Rio de Janeiro,Móveis,Cadeira Gamer,3,1299.00,CONCLUIDO 
+P0233,17/04/2025,C115,São Paulo,Móveis,Cadeira Gamer,2,1299.00,Concluído
+P0075,04/07/2025,C072,Recife,Casa Inteligente,Câmera de Segurança,2,459.00, concluído
+P0212,07/01/2025,C029,Fortaleza,Acessórios,Mouse sem Fio,3,129.90, concluído
+P0014,28/03/2025,C028,Fortaleza,Acessórios,Teclado Mecânico,1,349.90, concluído
+P0221,17/12/2025,C079,Belo Horizonte,Acessórios,Mouse sem Fio,3,129.90,concluido
+P0065,06/02/2025,C021,Recife,Casa Inteligente,Lâmpada Smart,2,79.90,CONCLUIDO 
+P0109,06/01/2025,C041,Salvador,Utilidades,Garrafa Térmica,1,89.90, concluído
+P0088,11/06/2025,C042,Belo Horizonte,Móveis,Mesa de Escritório,1,849.00,CONCLUIDO 
+P0112,27/04/2025,C054,Belo Horizonte,Acessórios,Teclado Mecânico,3,349.90,CONCLUIDO 
+P0073,25/12/2025,C097,Recife,Eletrônicos,Caixa de Som,2,399.90,Concluído
+P0054,13/02/2025,C035,Rio de Janeiro,Casa Inteligente,Lâmpada Smart,1,79.90,concluido
+P0234,02/06/2025,C011,Curitiba,Utilidades,Luminária LED,2,149.90,Concluído
+P0198,01/01/2025,C001,Belo Horizonte,Casa Inteligente,Tomada Wi-Fi,1,99.90,CONCLUIDO 
+P0142,05/09/2025,C085,Rio de Janeiro,Acessórios,Mochila Notebook,2,219.90,cancelado
+P0135,22/07/2025,C068,Salvador,Móveis,Cadeira Gamer,2,1299.00,Concluído
+P0200,23/10/2025,C090,Salvador,Utilidades,Organizador de Cabos,1,39.90,CONCLUIDO 
+P0122,06/07/2025,C081,Natal,Casa Inteligente,Tomada Wi-Fi,1,99.90, concluído

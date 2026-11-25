@@ -1,0 +1,241 @@
+pedido_id;data;cliente_id;cidade;categoria;produto;quantidade;preco_unitario;status;receita
+P0208;2025-11-13;C093;Belo Horizonte;Móveis;Estante;1;599,0;concluido;599,0
+P0133;2025-05-24;C095;Fortaleza;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0238;2025-08-03;C082;Belo Horizonte;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0143;2025-12-01;C037;Fortaleza;Utilidades;Garrafa Térmica;2;89,9;concluido;179,8
+P0131;2025-11-16;C064;Curitiba;Eletrônicos;Notebook;2;4299,0;cancelado;8598,0
+P0101;2025-05-23;C088;Salvador;Eletrônicos;Caixa de Som;1;399,9;concluido;399,9
+P0114;2025-04-29;C014;Curitiba;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0116;2025-01-13;C007;Recife;Eletrônicos;Smartwatch;2;899,0;concluido;1798,0
+P0052;2025-02-17;C071;Curitiba;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0124;2025-02-02;C035;Belo Horizonte;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0232;2025-10-24;C100;Curitiba;Utilidades;Garrafa Térmica;1;89,9;concluido;89,9
+P0199;2025-09-09;C076;Belo Horizonte;Acessórios;Mouse sem Fio;2;129,9;concluido;259,8
+P0035;2025-08-26;C021;Rio de Janeiro;Eletrônicos;Caixa de Som;3;399,9;concluido;1199,6999999999998
+P0150;2025-01-28;C116;Rio de Janeiro;Acessórios;Teclado Mecânico;1;349,9;concluido;349,9
+P0066;2025-09-17;C032;Fortaleza;Eletrônicos;Caixa de Som;2;399,9;concluido;799,8
+P0120;2025-03-05;C046;Fortaleza;Móveis;Mesa de Escritório;2;849,0;concluido;1698,0
+P0043;2025-10-12;C008;Salvador;Utilidades;Luminária LED;2;149,9;concluido;299,8
+P0221;2025-12-17;C079;Belo Horizonte;Acessórios;Mouse sem Fio;3;129,9;concluido;389,70000000000005
+P0034;2025-12-31;C056;Belo Horizonte;Eletrônicos;Caixa de Som;1;399,9;concluido;399,9
+P0184;2025-11-22;C101;Fortaleza;Eletrônicos;Notebook;3;4299,0;concluido;12897,0
+P0164;2025-04-17;C048;Recife;Utilidades;Organizador de Cabos;1;39,9;concluido;39,9
+P0087;2025-12-15;C019;Natal;Eletrônicos;Caixa de Som;3;399,9;concluido;1199,6999999999998
+P0044;2025-01-22;C004;São Paulo;Casa Inteligente;Tomada Wi-Fi;2;99,9;concluido;199,8
+P0084;2025-05-18;C075;São Paulo;Eletrônicos;Caixa de Som;1;399,9;concluido;399,9
+P0113;2025-01-04;C064;Salvador;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0025;2025-09-05;C096;Belo Horizonte;Acessórios;Teclado Mecânico;1;349,9;concluido;349,9
+P0152;2025-09-23;C020;Salvador;Eletrônicos;Caixa de Som;1;399,9;concluido;399,9
+P0148;2025-09-16;C021;Rio de Janeiro;Eletrônicos;Notebook;1;4299,0;concluido;4299,0
+P0030;2025-09-10;C102;Fortaleza;Casa Inteligente;Câmera de Segurança;1;459,0;concluido;459,0
+P0154;2025-11-03;C054;Fortaleza;Eletrônicos;Caixa de Som;3;399,9;concluido;1199,6999999999998
+P0178;2025-09-10;C008;Recife;Utilidades;Luminária LED;1;149,9;concluido;149,9
+P0190;2025-12-25;C089;Recife;Móveis;Cadeira Gamer;1;1299,0;cancelado;1299,0
+P0237;2025-08-28;C038;Curitiba;Casa Inteligente;Tomada Wi-Fi;3;99,9;concluido;299,70000000000005
+P0060;2025-06-06;C058;Rio de Janeiro;Móveis;Estante;1;599,0;concluido;599,0
+P0068;2025-06-15;C046;Rio de Janeiro;Móveis;Estante;1;599,0;concluido;599,0
+P0056;2025-12-19;C003;São Paulo;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0074;2025-12-16;C004;Recife;Utilidades;Luminária LED;1;149,9;concluido;149,9
+P0076;2025-09-08;C096;São Paulo;Eletrônicos;Smartwatch;1;899,0;concluido;899,0
+P0117;2025-08-19;C015;São Paulo;Casa Inteligente;Tomada Wi-Fi;3;99,9;concluido;299,70000000000005
+P0119;2025-08-15;C036;São Paulo;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0102;2025-05-08;C040;Recife;Eletrônicos;Notebook;2;4299,0;concluido;8598,0
+P0020;2025-10-14;C014;Curitiba;Acessórios;Mochila Notebook;2;219,9;concluido;439,8
+P0098;2025-08-07;C012;Rio de Janeiro;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0166;2025-02-28;C110;Belo Horizonte;Casa Inteligente;Tomada Wi-Fi;3;99,9;concluido;299,70000000000005
+P0126;2025-02-03;C061;Curitiba;Utilidades;Luminária LED;1;149,9;cancelado;149,9
+P0210;2025-02-22;C102;Fortaleza;Casa Inteligente;Câmera de Segurança;1;459,0;concluido;459,0
+P0219;2025-04-13;C059;Salvador;Casa Inteligente;Câmera de Segurança;2;459,0;concluido;918,0
+P0188;2025-04-30;C051;São Paulo;Eletrônicos;Caixa de Som;1;399,9;concluido;399,9
+P0046;2025-09-02;C067;Fortaleza;Utilidades;Luminária LED;3;149,9;concluido;449,70000000000005
+P0042;2025-08-31;C008;Belo Horizonte;Casa Inteligente;Lâmpada Smart;2;79,9;concluido;159,8
+P0079;2025-11-12;C077;Rio de Janeiro;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0094;2025-03-12;C007;Rio de Janeiro;Acessórios;Mochila Notebook;2;219,9;concluido;439,8
+P0181;2025-11-17;C092;Recife;Eletrônicos;Notebook;2;4299,0;cancelado;8598,0
+P0069;2025-07-15;C084;Salvador;Eletrônicos;Notebook;2;4299,0;cancelado;8598,0
+P0225;2025-11-21;C046;Natal;Casa Inteligente;Lâmpada Smart;1;79,9;concluido;79,9
+P0037;2025-10-08;C103;São Paulo;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0193;2025-02-21;C041;Belo Horizonte;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0071;2025-06-03;C075;Rio de Janeiro;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0139;2025-04-22;C006;Salvador;Eletrônicos;Notebook;1;4299,0;cancelado;4299,0
+P0029;2025-04-10;C103;Salvador;Casa Inteligente;Câmera de Segurança;3;459,0;concluido;1377,0
+P0051;2025-08-09;C054;Salvador;Casa Inteligente;Câmera de Segurança;1;459,0;concluido;459,0
+P0162;2025-12-18;C107;Belo Horizonte;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0062;2025-05-06;C105;Natal;Utilidades;Organizador de Cabos;3;39,9;concluido;119,69999999999999
+P0033;2025-11-09;C045;São Paulo;Acessórios;Mochila Notebook;3;219,9;concluido;659,7
+P0021;2025-04-08;C021;São Paulo;Acessórios;Mouse sem Fio;2;129,9;cancelado;259,8
+P0141;2025-07-10;C027;Recife;Acessórios;Mochila Notebook;1;219,9;concluido;219,9
+P0015;2025-05-07;C022;Curitiba;Casa Inteligente;Câmera de Segurança;1;459,0;concluido;459,0
+P0099;2025-02-16;C104;Salvador;Móveis;Estante;1;599,0;concluido;599,0
+P0204;2025-04-30;C077;Recife;Acessórios;Mochila Notebook;2;219,9;concluido;439,8
+P0187;2025-05-03;C108;Recife;Móveis;Estante;2;599,0;concluido;1198,0
+P0057;2025-11-08;C111;São Paulo;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0191;2025-02-03;C105;São Paulo;Eletrônicos;Fone Bluetooth;1;249,9;concluido;249,9
+P0041;2025-01-10;C001;Rio de Janeiro;Utilidades;Luminária LED;2;149,9;concluido;299,8
+P0216;2025-07-24;C109;Natal;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0063;2025-07-21;C028;Salvador;Acessórios;Mochila Notebook;3;219,9;concluido;659,7
+P0132;2025-03-10;C069;São Paulo;Casa Inteligente;Lâmpada Smart;3;79,9;concluido;239,70000000000002
+P0197;2025-04-21;C105;Fortaleza;Utilidades;Luminária LED;2;149,9;concluido;299,8
+P0083;2025-06-09;C038;Curitiba;Utilidades;Garrafa Térmica;1;89,9;concluido;89,9
+P0136;2025-01-19;C108;Curitiba;Eletrônicos;Caixa de Som;1;399,9;cancelado;399,9
+P0215;2025-03-05;C081;São Paulo;Casa Inteligente;Câmera de Segurança;1;459,0;concluido;459,0
+P0185;2025-04-22;C022;Fortaleza;Móveis;Estante;1;599,0;cancelado;599,0
+P0160;2025-12-01;C110;São Paulo;Eletrônicos;Caixa de Som;1;399,9;concluido;399,9
+P0090;2025-10-29;C110;Recife;Acessórios;Teclado Mecânico;1;349,9;cancelado;349,9
+P0008;2025-05-08;C074;Fortaleza;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0125;2025-05-15;C039;Recife;Utilidades;Garrafa Térmica;1;89,9;concluido;89,9
+P0005;2025-03-15;C105;Rio de Janeiro;Móveis;Mesa de Escritório;2;849,0;concluido;1698,0
+P0105;2025-03-19;C090;Curitiba;Casa Inteligente;Lâmpada Smart;3;79,9;concluido;239,70000000000002
+P0211;2025-05-21;C027;Natal;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0123;2025-07-27;C009;Recife;Casa Inteligente;Câmera de Segurança;2;459,0;cancelado;918,0
+P0059;2025-02-26;C024;Salvador;Eletrônicos;Smartwatch;1;899,0;concluido;899,0
+P0064;2025-12-28;C045;Recife;Móveis;Cadeira Gamer;2;1299,0;concluido;2598,0
+P0231;2025-12-03;C038;Fortaleza;Utilidades;Garrafa Térmica;3;89,9;cancelado;269,70000000000005
+P0072;2025-06-16;C037;Rio de Janeiro;Utilidades;Organizador de Cabos;1;39,9;concluido;39,9
+P0081;2025-02-01;C028;Curitiba;Eletrônicos;Caixa de Som;3;399,9;concluido;1199,6999999999998
+P0213;2025-03-14;C095;Salvador;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0159;2025-02-12;C066;São Paulo;Eletrônicos;Smartwatch;3;899,0;concluido;2697,0
+P0218;2025-07-19;C033;Salvador;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0019;2025-08-03;C089;Recife;Eletrônicos;Smartwatch;1;899,0;concluido;899,0
+P0222;2025-05-21;C010;Natal;Eletrônicos;Notebook;1;4299,0;concluido;4299,0
+P0092;2025-08-12;C101;Natal;Casa Inteligente;Tomada Wi-Fi;1;99,9;concluido;99,9
+P0107;2025-11-17;C098;São Paulo;Móveis;Cadeira Gamer;3;1299,0;concluido;3897,0
+P0137;2025-05-31;C077;Salvador;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0167;2025-09-24;C069;Natal;Acessórios;Mochila Notebook;1;219,9;concluido;219,9
+P0007;2025-09-12;C060;Curitiba;Utilidades;Garrafa Térmica;1;89,9;concluido;89,9
+P0024;2025-11-05;C109;Curitiba;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0096;2025-05-03;C022;Rio de Janeiro;Acessórios;Mochila Notebook;1;219,9;concluido;219,9
+P0058;2025-06-23;C080;Rio de Janeiro;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0032;2025-04-23;C044;Salvador;Móveis;Cadeira Gamer;1;1299,0;cancelado;1299,0
+P0161;2025-12-21;C114;Curitiba;Utilidades;Luminária LED;1;149,9;concluido;149,9
+P0093;2025-10-11;C120;Natal;Eletrônicos;Caixa de Som;1;399,9;concluido;399,9
+P0170;2025-10-27;C001;Recife;Móveis;Estante;3;599,0;concluido;1797,0
+P0003;2025-10-10;C081;Recife;Casa Inteligente;Lâmpada Smart;1;79,9;concluido;79,9
+P0061;2025-01-10;C003;Salvador;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0017;2025-07-14;C023;Rio de Janeiro;Móveis;Estante;1;599,0;concluido;599,0
+P0169;2025-04-01;C105;Fortaleza;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0240;2025-09-06;C028;Natal;Utilidades;Organizador de Cabos;1;39,9;concluido;39,9
+P0196;2025-08-12;C061;Recife;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0194;2025-01-11;C092;Belo Horizonte;Acessórios;Teclado Mecânico;1;349,9;concluido;349,9
+P0110;2025-05-01;C091;Fortaleza;Acessórios;Mochila Notebook;2;219,9;concluido;439,8
+P0189;2025-03-16;C080;Rio de Janeiro;Utilidades;Garrafa Térmica;1;89,9;cancelado;89,9
+P0227;2025-07-12;C024;Curitiba;Móveis;Estante;3;599,0;concluido;1797,0
+P0239;2025-11-09;C104;São Paulo;Eletrônicos;Fone Bluetooth;1;249,9;cancelado;249,9
+P0195;2025-09-15;C096;Recife;Móveis;Estante;2;599,0;concluido;1198,0
+P0001;2025-07-22;C013;Belo Horizonte;Móveis;Cadeira Gamer;2;1299,0;concluido;2598,0
+P0223;2025-12-24;C029;Fortaleza;Acessórios;Mochila Notebook;1;219,9;concluido;219,9
+P0138;2025-09-20;C034;Recife;Eletrônicos;Notebook;2;4299,0;concluido;8598,0
+P0039;2025-09-14;C070;Natal;Casa Inteligente;Tomada Wi-Fi;1;99,9;concluido;99,9
+P0180;2025-04-13;C023;Fortaleza;Casa Inteligente;Tomada Wi-Fi;2;99,9;concluido;199,8
+P0121;2025-01-26;C070;Curitiba;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0176;2025-11-23;C104;Fortaleza;Eletrônicos;Fone Bluetooth;2;249,9;concluido;499,8
+P0027;2025-10-06;C111;São Paulo;Casa Inteligente;Câmera de Segurança;3;459,0;concluido;1377,0
+P0106;2025-01-01;C118;Recife;Eletrônicos;Fone Bluetooth;2;249,9;concluido;499,8
+P0192;2025-05-07;C005;São Paulo;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0040;2025-07-01;C017;Rio de Janeiro;Casa Inteligente;Lâmpada Smart;2;79,9;concluido;159,8
+P0100;2025-07-16;C035;Belo Horizonte;Eletrônicos;Caixa de Som;2;399,9;concluido;799,8
+P0172;2025-09-08;C007;Recife;Eletrônicos;Smartwatch;1;899,0;concluido;899,0
+P0018;2025-04-30;C034;Fortaleza;Casa Inteligente;Câmera de Segurança;1;459,0;cancelado;459,0
+P0115;2025-04-25;C019;Natal;Utilidades;Garrafa Térmica;2;89,9;concluido;179,8
+P0202;2025-02-18;C012;Natal;Móveis;Mesa de Escritório;3;849,0;concluido;2547,0
+P0155;2025-08-06;C065;Curitiba;Utilidades;Garrafa Térmica;2;89,9;concluido;179,8
+P0217;2025-01-11;C087;Rio de Janeiro;Acessórios;Teclado Mecânico;2;349,9;concluido;699,8
+P0174;2025-10-29;C107;Curitiba;Utilidades;Organizador de Cabos;2;39,9;concluido;79,8
+P0134;2025-05-07;C037;Salvador;Casa Inteligente;Tomada Wi-Fi;1;99,9;concluido;99,9
+P0146;2025-02-28;C114;Belo Horizonte;Casa Inteligente;Tomada Wi-Fi;2;99,9;concluido;199,8
+P0128;2025-03-19;C059;Belo Horizonte;Móveis;Estante;1;599,0;concluido;599,0
+P0235;2025-05-16;C064;Recife;Eletrônicos;Fone Bluetooth;2;249,9;concluido;499,8
+P0149;2025-07-16;C017;Recife;Eletrônicos;Fone Bluetooth;1;249,9;concluido;249,9
+P0145;2025-04-11;C001;Natal;Móveis;Estante;1;599,0;concluido;599,0
+P0111;2025-04-10;C033;Salvador;Eletrônicos;Fone Bluetooth;1;249,9;concluido;249,9
+P0006;2025-07-10;C073;Recife;Eletrônicos;Smartwatch;1;899,0;cancelado;899,0
+P0214;2025-10-21;C086;Salvador;Acessórios;Mochila Notebook;1;219,9;concluido;219,9
+P0009;2025-06-25;C010;São Paulo;Utilidades;Organizador de Cabos;2;39,9;concluido;79,8
+P0165;2025-07-26;C042;Natal;Casa Inteligente;Lâmpada Smart;3;79,9;concluido;239,70000000000002
+P0048;2025-08-08;C101;São Paulo;Eletrônicos;Smartwatch;1;899,0;cancelado;899,0
+P0078;2025-11-29;C010;Curitiba;Casa Inteligente;Câmera de Segurança;2;459,0;concluido;918,0
+P0067;2025-04-05;C034;Belo Horizonte;Eletrônicos;Caixa de Som;1;399,9;concluido;399,9
+P0144;2025-06-09;C054;Recife;Acessórios;Mouse sem Fio;2;129,9;concluido;259,8
+P0080;2025-11-30;C073;Rio de Janeiro;Móveis;Mesa de Escritório;2;849,0;concluido;1698,0
+P0036;2025-03-19;C019;Curitiba;Casa Inteligente;Lâmpada Smart;3;79,9;concluido;239,70000000000002
+P0095;2025-08-01;C095;Fortaleza;Casa Inteligente;Tomada Wi-Fi;1;99,9;concluido;99,9
+P0004;2025-07-23;C072;Rio de Janeiro;Utilidades;Luminária LED;1;149,9;cancelado;149,9
+P0220;2025-01-09;C044;Natal;Acessórios;Mochila Notebook;2;219,9;concluido;439,8
+P0108;2025-06-03;C034;Salvador;Eletrônicos;Fone Bluetooth;2;249,9;concluido;499,8
+P0010;2025-03-26;C054;Recife;Utilidades;Organizador de Cabos;2;39,9;concluido;79,8
+P0047;2025-08-18;C057;Belo Horizonte;Utilidades;Garrafa Térmica;2;89,9;concluido;179,8
+P0026;2025-12-21;C068;Belo Horizonte;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0045;2025-11-10;C036;Curitiba;Acessórios;Teclado Mecânico;3;349,9;concluido;1049,6999999999998
+P0182;2025-08-27;C023;Salvador;Acessórios;Teclado Mecânico;2;349,9;cancelado;699,8
+P0118;2025-04-08;C040;Natal;Casa Inteligente;Tomada Wi-Fi;1;99,9;concluido;99,9
+P0209;2025-06-28;C034;São Paulo;Utilidades;Luminária LED;1;149,9;concluido;149,9
+P0171;2025-05-29;C066;Belo Horizonte;Casa Inteligente;Lâmpada Smart;2;79,9;concluido;159,8
+P0206;2025-08-13;C030;Rio de Janeiro;Casa Inteligente;Tomada Wi-Fi;2;99,9;concluido;199,8
+P0055;2025-05-13;C042;São Paulo;Acessórios;Mochila Notebook;3;219,9;concluido;659,7
+P0022;2025-01-27;C069;São Paulo;Móveis;Estante;1;599,0;cancelado;599,0
+P0175;2025-01-08;C020;Curitiba;Casa Inteligente;Lâmpada Smart;3;79,9;concluido;239,70000000000002
+P0153;2025-10-15;C108;Belo Horizonte;Casa Inteligente;Lâmpada Smart;3;79,9;concluido;239,70000000000002
+P0177;2025-11-27;C083;Curitiba;Eletrônicos;Fone Bluetooth;2;249,9;concluido;499,8
+P0179;2025-05-02;C079;Salvador;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0173;2025-06-05;C029;Natal;Utilidades;Organizador de Cabos;2;39,9;cancelado;79,8
+P0038;2025-03-13;C004;Fortaleza;Utilidades;Luminária LED;1;149,9;concluido;149,9
+P0158;2025-07-07;C066;Recife;Móveis;Mesa de Escritório;2;849,0;cancelado;1698,0
+P0097;2025-09-14;C029;Curitiba;Eletrônicos;Smartwatch;2;899,0;concluido;1798,0
+P0157;2025-04-02;C009;Rio de Janeiro;Utilidades;Organizador de Cabos;1;39,9;concluido;39,9
+P0207;2025-11-26;C025;Fortaleza;Móveis;Mesa de Escritório;2;849,0;concluido;1698,0
+P0226;2025-10-08;C101;Salvador;Acessórios;Teclado Mecânico;1;349,9;concluido;349,9
+P0016;2025-05-23;C036;Natal;Acessórios;Mochila Notebook;2;219,9;concluido;439,8
+P0156;2025-01-02;C031;Curitiba;Casa Inteligente;Lâmpada Smart;2;79,9;concluido;159,8
+P0088;2025-06-11;C042;Belo Horizonte;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0049;2025-11-26;C114;Rio de Janeiro;Casa Inteligente;Câmera de Segurança;1;459,0;concluido;459,0
+P0012;2025-05-19;C094;Fortaleza;Eletrônicos;Fone Bluetooth;1;249,9;concluido;249,9
+P0002;2025-09-17;C054;São Paulo;Utilidades;Garrafa Térmica;2;89,9;concluido;179,8
+P0028;2025-07-07;C069;Belo Horizonte;Móveis;Estante;1;599,0;concluido;599,0
+P0230;2025-02-13;C068;Belo Horizonte;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0205;2025-06-17;C071;Belo Horizonte;Móveis;Estante;3;599,0;concluido;1797,0
+P0013;2025-08-17;C045;Recife;Utilidades;Luminária LED;3;149,9;concluido;449,70000000000005
+P0147;2025-03-08;C083;Natal;Acessórios;Mouse sem Fio;1;129,9;cancelado;129,9
+P0140;2025-11-03;C105;Belo Horizonte;Móveis;Cadeira Gamer;1;1299,0;concluido;1299,0
+P0228;2025-07-03;C062;Curitiba;Eletrônicos;Notebook;1;4299,0;concluido;4299,0
+P0236;2025-03-15;C022;Recife;Acessórios;Teclado Mecânico;2;349,9;concluido;699,8
+P0186;2025-04-14;C113;Natal;Casa Inteligente;Câmera de Segurança;1;459,0;concluido;459,0
+P0103;2025-08-06;C063;Recife;Casa Inteligente;Lâmpada Smart;2;79,9;concluido;159,8
+P0011;2025-06-24;C103;Curitiba;Eletrônicos;Notebook;2;4299,0;concluido;8598,0
+P0201;2025-02-26;C101;São Paulo;Acessórios;Mouse sem Fio;2;129,9;concluido;259,8
+P0023;2025-01-14;C049;Rio de Janeiro;Móveis;Estante;2;599,0;cancelado;1198,0
+P0163;2025-03-23;C019;Fortaleza;Utilidades;Organizador de Cabos;2;39,9;concluido;79,8
+P0151;2025-07-27;C024;Salvador;Casa Inteligente;Câmera de Segurança;2;459,0;concluido;918,0
+P0077;2025-08-31;C031;Salvador;Utilidades;Garrafa Térmica;1;89,9;concluido;89,9
+P0183;2025-04-29;C115;Fortaleza;Eletrônicos;Notebook;1;4299,0;concluido;4299,0
+P0082;2025-09-22;C099;São Paulo;Móveis;Estante;2;599,0;concluido;1198,0
+P0050;2025-02-18;C086;Salvador;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0085;2025-09-26;C078;Fortaleza;Casa Inteligente;Câmera de Segurança;1;459,0;concluido;459,0
+P0031;2025-04-10;C104;Belo Horizonte;Acessórios;Teclado Mecânico;2;349,9;concluido;699,8
+P0203;2025-04-16;C065;Rio de Janeiro;Eletrônicos;Notebook;2;4299,0;concluido;8598,0
+P0229;2025-11-23;C119;Fortaleza;Acessórios;Mochila Notebook;1;219,9;cancelado;219,9
+P0168;2025-07-12;C043;São Paulo;Móveis;Mesa de Escritório;1;849,0;concluido;849,0
+P0053;2025-01-10;C009;São Paulo;Acessórios;Mochila Notebook;2;219,9;concluido;439,8
+P0089;2025-04-11;C048;São Paulo;Acessórios;Mouse sem Fio;1;129,9;concluido;129,9
+P0130;2025-10-10;C114;São Paulo;Eletrônicos;Caixa de Som;2;399,9;concluido;799,8
+P0224;2025-04-23;C028;Rio de Janeiro;Acessórios;Mochila Notebook;2;219,9;concluido;439,8
+P0070;2025-01-03;C052;Recife;Casa Inteligente;Câmera de Segurança;1;459,0;cancelado;459,0
+P0129;2025-09-20;C053;São Paulo;Utilidades;Garrafa Térmica;1;89,9;concluido;89,9
+P0086;2025-04-29;C004;Rio de Janeiro;Eletrônicos;Notebook;2;4299,0;concluido;8598,0
+P0104;2025-09-28;C101;São Paulo;Eletrônicos;Caixa de Som;1;399,9;concluido;399,9
+P0127;2025-08-09;C024;Recife;Acessórios;Teclado Mecânico;2;349,9;concluido;699,8
+P0091;2025-01-27;C120;Rio de Janeiro;Móveis;Cadeira Gamer;3;1299,0;concluido;3897,0
+P0233;2025-04-17;C115;São Paulo;Móveis;Cadeira Gamer;2;1299,0;concluido;2598,0
+P0075;2025-07-04;C072;Recife;Casa Inteligente;Câmera de Segurança;2;459,0;concluido;918,0
+P0212;2025-01-07;C029;Fortaleza;Acessórios;Mouse sem Fio;3;129,9;concluido;389,70000000000005
+P0014;2025-03-28;C028;Fortaleza;Acessórios;Teclado Mecânico;1;349,9;concluido;349,9
+P0065;2025-02-06;C021;Recife;Casa Inteligente;Lâmpada Smart;2;79,9;concluido;159,8
+P0109;2025-01-06;C041;Salvador;Utilidades;Garrafa Térmica;1;89,9;concluido;89,9
+P0112;2025-04-27;C054;Belo Horizonte;Acessórios;Teclado Mecânico;3;349,9;concluido;1049,6999999999998
+P0073;2025-12-25;C097;Recife;Eletrônicos;Caixa de Som;2;399,9;concluido;799,8
+P0054;2025-02-13;C035;Rio de Janeiro;Casa Inteligente;Lâmpada Smart;1;79,9;concluido;79,9
+P0234;2025-06-02;C011;Curitiba;Utilidades;Luminária LED;2;149,9;concluido;299,8
+P0198;2025-01-01;C001;Belo Horizonte;Casa Inteligente;Tomada Wi-Fi;1;99,9;concluido;99,9
+P0142;2025-09-05;C085;Rio de Janeiro;Acessórios;Mochila Notebook;2;219,9;cancelado;439,8
+P0135;2025-07-22;C068;Salvador;Móveis;Cadeira Gamer;2;1299,0;concluido;2598,0
+P0200;2025-10-23;C090;Salvador;Utilidades;Organizador de Cabos;1;39,9;concluido;39,9
+P0122;2025-07-06;C081;Natal;Casa Inteligente;Tomada Wi-Fi;1;99,9;concluido;99,9
